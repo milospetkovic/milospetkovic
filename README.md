@@ -4,15 +4,15 @@
 
 - :telescope: I’m   a _**Full-stack web developer**_.
 
-- :fire: My main superpowers are _**PHP and VueJS**_.
-
 - 👨‍💼 I create web applications and websites, as well as ERP systems.
-
-- :mortar_board: Computer Science - Technical Faculty
 
 - :zap: In my free time I work on personal projects.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Miloš-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milo%C5%A1-petkovi%C4%87-57486832/)
+- :fire: My main superpowers are _**PHP and VueJS**_.
+
+- :mortar_board: Education - Computer Science, Technical Faculty
+
+- :mailbox: Feel free to connect with me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Miloš-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milo%C5%A1-petkovi%C4%87-57486832/)
 
 ---
 
@@ -35,7 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
